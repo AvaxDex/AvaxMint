@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     colors: {
-      'teal': '#fd1d1d',
+      'teal': '##ef4a4a',
       'pale-yellow': '#fff8c2',
       'maastricht': '#062231',
     },
