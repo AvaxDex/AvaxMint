@@ -1,8 +1,8 @@
 const contents = [
   {
     id: 0,
-    mindDate: '🔥Mint Date: 25 June 05:00 UTC🔥',
-    mintDateMobile: 'Mint Date: 30 July 05:00 UTC',
+    mindDate: '🔥Mint Date: 05 July 05:00 UTC🔥',
+    mintDateMobile: 'Mint Date: 05 July 05:00 UTC',
   }
 ]
 
