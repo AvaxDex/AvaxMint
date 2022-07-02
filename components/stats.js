@@ -9,13 +9,13 @@ export default function Stats() {
                 <dl className="rounded-lg bg-pale-yellow shadow-lg sm:grid sm:grid-cols-3">
                   <div className="flex flex-col border-b border-teal p-6 text-center sm:border-0 sm:border-r">
                     <dt className="order-2 mt-2 text-5xl leading-6 font-justanotherhand text-teal">Blockchain</dt>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">2000</dd>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">2000</dd>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">2000</dd>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">1000</dd>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">1000</dd>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">1000</dd>
-                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">1000</dd>      
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Ethereum</dd>
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Binance</dd>
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Avalanche</dd>
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Arbitrum</dd>
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Polygon</dd>
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Fantom</dd>
+                    <dd className="order-1 text-6xl font-justanotherhand text-maastricht">Optimism</dd> 
                   </div>
                   <div className="flex flex-col border-t border-b border-teal p-6 text-center sm:border-0 sm:border-l sm:border-r">
                     <dt className="order-2 mt-2 text-5xl leading-6 font-justanotherhand text-teal">Total Supply</dt>
