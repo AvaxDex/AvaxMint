@@ -9,20 +9,25 @@ const faqs = [
       "Omnichain is the NFTs that can be traversed through different blockchains. Currently, it is possible to bridge NFTs between Ethereum, Avalanche, Binance Smart Chain, Arbitrum, Polygon, Optimism and Fantom.",
   },
   {
-    question: "How many supply each chain?",
+    question: "How will the project be funded??",
     answer:
-      "Ethereum (2000), Avalanche (2000), Binance (2000), Arbitrum (1000), Polygon (1000), Optimism (1000) Fantom (1000).",
+      "100% of sales and royalties committed to a community wallet for the further development of Adex Story NFTs.",
   },
   {
-    question: "Why become a member of Adex Story?",
+    question: "Who can mint Adex Story NFTs?",
     answer:
-      "Joining the Space Boo community means you are entering a caring family Adex Story holders. It is the start of a journey to endless space exploration.",
-  },
+      "Joining our discord community Members have been hand selected to join us inside our discord. Invite = Free Mint.",
+  },  
   {
     question: "Will there be future versions?",
     answer:
-      "Yes! With a long-term vision of a sustainable community, the AVAXDEX Dapp project has phase 2 planned out which utilizes the portal tech.",
+      "Yes! With a long-term vision of a sustainable community, After launch of our first collection, We will reveal our plan to launch second collection, paired with utility that will benefit both collections.",
   },
+  {
+    question: "How much will it cost users to mint?",
+    answer:
+      "Mint will be completely free, members only responsible to pay gas.",
+  },  
   // More questions...
 ]
 
