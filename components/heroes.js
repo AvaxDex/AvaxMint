@@ -15,7 +15,7 @@ const contents = [
   }
 ]
 
-const spaceBooNFTAddress = "0x1f45da026f0d5b36F2Bd5006889eB1212aF990e9";
+const spaceBooNFTAddress = "0x14dbc2d3e1add6e9b0222b21d6a9d47565e1d0aa";
 
 const Heroes = ({ accounts, setAccounts }) => {
   const [mintAmount, setMintAmount] = useState(1);
@@ -31,8 +31,8 @@ const Heroes = ({ accounts, setAccounts }) => {
         signer
       );
       try {
-        const response = await contract.mint(BigNumber.from(mintAmount), {
-          value: ethers.utils.parseEther((0.5 * mintAmount).toString()),
+        const response = await contract.mintTokensPresale(BigNumber.from(mintAmount), {
+          value: ethers.utils.parseEther((0.05 * mintAmount).toString()),
         });
         console.log('response: ',response);
       } catch (err) {
