@@ -8,10 +8,10 @@ import Image from 'next/image'
 const contents = [
   {
   id: 1,  
-  title: 'Kids Story',
+  title: 'Kid Story',
   pTitle: 'NFTs',
-  mainText: 'Kids Story is LayerZero Omnichain NFTs that can be traversed through different blockchains. Currently, it is possible to bridge NFTs between Ethereum, Avalanche, Binance Smart Chain, Arbitrum, Polygon, Optimism and Fantom.',
-  howMany: 'How many Kids Story NFTs do you want?',
+  mainText: 'Kid Story is LayerZero Omnichain NFTs that can be traversed through different blockchains. Currently, it is possible to bridge NFTs between Ethereum, Avalanche, Binance Smart Chain, Arbitrum, Polygon, Optimism and Fantom.',
+  howMany: 'How many Kid Story NFTs do you want?',
   }
 ]
 
@@ -78,8 +78,8 @@ const Heroes = ({ accounts, setAccounts }) => {
                     )}
                   </div>
                   <div className="pt-3 sm:flex">
-                  <button className="text-center mr-3 md:mb-0 sm:mb-3 mb-3 lg:mb-0 font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Supply className="h-8 mr-3"/>total supply: 1000</button> 
-                  <button className="text-center font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Supply className="h-8 mr-3"/>mint free: 0 avax</button> 
+                  <button className="text-center mr-3 md:mb-0 sm:mb-3 mb-3 lg:mb-0 font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Supply className="h-8 mr-3"/>total supply: 4000</button> 
+                  <button className="text-center font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Supply className="h-8 mr-3"/>mint free: 0 ETH</button> 
                   </div>
               </div>
             </div>
