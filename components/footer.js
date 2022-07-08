@@ -39,7 +39,7 @@ const navigation = {
     footerText: [
       {
         id: 4,
-        text: '2022 Kids Story NFTs. All rights reserved.',
+        text: '2022 Kid Story NFTs. All rights reserved.',
       }
     ],
   }
