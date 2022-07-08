@@ -11,10 +11,10 @@ const faqs = [
   {
     question: "How will the project be funded??",
     answer:
-      "100% of sales and royalties committed to a community wallet for the further development of Kids Story NFTs.",
+      "100% of sales and royalties committed to a community wallet for the further development of Kid Story NFTs.",
   },
   {
-    question: "Who can mint Kids Story NFTs?",
+    question: "Who can mint Kid Story NFTs?",
     answer:
       "Joining our discord community Members have been hand selected to join us inside our discord. Invite = Free Mint.",
   },  
