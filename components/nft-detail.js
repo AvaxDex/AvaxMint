@@ -6,7 +6,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const nft = {
-  name: 'Adex Story #15',
+  name: 'Kids Story #15',
   imageSrc: '/images/nft-detail/nft-detail.png',
   imageAlt: 'SpaceBoo#968',
 
@@ -81,7 +81,7 @@ export default function NftDetail() {
                   </div>
                 </RadioGroup>
               </div>
-              <Link href="https://tofunft.com/collection/adex-story-avax/items" passHref>
+              <Link href="https://tofunft.com/collection/kids-story-avax/items" passHref>
               <button
                 type="submit"
                 className="mt-2 w-full bg-pale-yellow rounded-md py-3 px-8 flex items-center justify-center font-justanotherhand text-4xl text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
