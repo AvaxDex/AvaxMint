@@ -6,12 +6,14 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const nft = {
-  name: 'Kids Story #15',
+  name: 'Kid Story #15',
   imageSrc: '/images/nft-detail/nft-detail.png',
   imageAlt: 'SpaceBoo#968',
 
   properties: [
-    { name: 'Birth Chain', type:'Avalanche'},
+    { name: 'Blockchain', type:'Omnichain'},
+    { name: 'Style', type:'Doodle'},
+    { name: 'Type', type:'Kid'},
     { name: 'Background', type:'Background 150'},
     { name: 'Star', type:'Star 12F'},
     { name: 'Skin', type:'Skin 7'},
@@ -81,7 +83,7 @@ export default function NftDetail() {
                   </div>
                 </RadioGroup>
               </div>
-              <Link href="https://tofunft.com/collection/kids-story-avax/items" passHref>
+              <Link href="https://tofunft.com/collection/kid-story-avax/items" passHref>
               <button
                 type="submit"
                 className="mt-2 w-full bg-pale-yellow rounded-md py-3 px-8 flex items-center justify-center font-justanotherhand text-4xl text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
