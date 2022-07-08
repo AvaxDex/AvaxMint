@@ -17,7 +17,7 @@ const Navbar = ({ accounts, setAccounts }) => {
                         <div className="items items-center mx-20 justify-between w-full text-center sm:flex lg:flex">
                             <div className="flex justify-center items-center flex-shrink-0">
                                 <h1 className="font-justanotherhand text-5xl cursor-pointer text-maastricht">
-                                AdexStory<span className="text-pale-yellow">NFTs</span>
+                                KidsStory<span className="text-pale-yellow">NFTs</span>
                                 </h1>
                             </div>
                             {/* Connect */}
