@@ -3,33 +3,33 @@ import Image from 'next/image'
 const contents = [
     {
     id: 0,  
-    welcomeTitle: 'Welcome to Kids Story',
-    welcomeSubtitle: 'Kids NFTs can bridge capable of sending NFTs across 7 blockchains. Each of those Kids is programmatically generated from dozens of unique traits and varying rarities. Minting a Kids will going to provide lots of utilities for holders both in the short-term and long-term with investments/passive income and rewards.',
+    welcomeTitle: 'Welcome to Kid Story',
+    welcomeSubtitle: 'Kid NFTs can bridge capable of sending NFTs across 7 blockchains. Each of those Kid is programmatically generated from dozens of unique traits and varying rarities. Minting a Kid will going to provide lots of utilities for holders both in the short-term and long-term with investments/passive income and rewards.',
     }
   ]
   
   const nfts = [
     {
       id: 1,
-      name: 'NFT #0001',
+      name: 'Kid #0001',
       imageSrc: '/images/nfts/nft-1.png',
       imageAlt: 'NFT#0001',
     },
     {
       id: 2,
-      name: 'NFT #0002',
+      name: 'Kid #0002',
       imageSrc: '/images/nfts/nft-2.png',
       imageAlt: 'NFT#0002',
     },
     {
       id: 3,
-      name: 'NFT #0003',
+      name: 'Kid #0003',
       imageSrc: '/images/nfts/nft-3.png',
       imageAlt: 'NFT#0003',
     },
     {
       id: 4,
-      name: 'NFT #0004',
+      name: 'Kid #0004',
       imageSrc: '/images/nfts/nft-4.png',
       imageAlt: 'NFT#0004',
     },
