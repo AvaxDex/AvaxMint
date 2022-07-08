@@ -6,7 +6,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const nft = {
-  name: 'Kid Story',
+  name: 'Kid Story attributes',
   imageSrc: '/images/nft-detail/nft-detail.png',
   imageAlt: 'SpaceBoo#968',
 
