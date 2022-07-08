@@ -3,8 +3,8 @@ import Image from 'next/image'
 const contents = [
     {
     id: 0,  
-    welcomeTitle: 'Welcome to Adex Story',
-    welcomeSubtitle: 'ADEX NFTs can bridge capable of sending NFTs across any blockchains. Each of those penguin is programmatically generated from dozens of unique traits and varying rarities. Minting a Penguin will going to provide lots of utilities for holders both in the short-term and long-term with investments/passive income and rewards.',
+    welcomeTitle: 'Welcome to Kids Story',
+    welcomeSubtitle: 'Kids NFTs can bridge capable of sending NFTs across 7 blockchains. Each of those Kids is programmatically generated from dozens of unique traits and varying rarities. Minting a Kids will going to provide lots of utilities for holders both in the short-term and long-term with investments/passive income and rewards.',
     }
   ]
   
