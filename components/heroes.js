@@ -15,7 +15,7 @@ const contents = [
   }
 ]
 
-const spaceBooNFTAddress = "0x14dbc2d3e1add6e9b0222b21d6a9d47565e1d0aa";
+const spaceBooNFTAddress = "0xcd70bc918e00ca2331006112c1de9e960a8e5194";
 
 const Heroes = ({ accounts, setAccounts }) => {
   const [mintAmount, setMintAmount] = useState(1);
