@@ -8,10 +8,10 @@ import Image from 'next/image'
 const contents = [
   {
   id: 1,  
-  title: 'Adex Story',
+  title: 'Kids Story',
   pTitle: 'NFTs',
-  mainText: 'Adex Story is LayerZero Omnichain NFTs that can be traversed through different blockchains. Currently, it is possible to bridge NFTs between Ethereum, Avalanche, Binance Smart Chain, Arbitrum, Polygon, Optimism and Fantom.',
-  howMany: 'How many Adex Story NFTs do you want?',
+  mainText: 'Kids Story is LayerZero Omnichain NFTs that can be traversed through different blockchains. Currently, it is possible to bridge NFTs between Ethereum, Avalanche, Binance Smart Chain, Arbitrum, Polygon, Optimism and Fantom.',
+  howMany: 'How many Kids Story NFTs do you want?',
   }
 ]
 
