@@ -81,7 +81,7 @@ const contents = [
             <p className="mt-4 font-justanotherhand text-5xl text-pale-yellow text-center">{content.welcomeSubtitle}</p>
           </div>
   
-          <div className="mt-11 grid items-start grid-cols-1 gap-y-16 gap-x-6 sm:mt-16 sm:grid-cols-2 lg:grid-cols-10 lg:gap-x-8">
+          <div className="mt-11 grid items-start grid-cols-1 gap-y-16 gap-x-6 sm:mt-16 sm:grid-cols-2 lg:grid-cols-5 lg:gap-x-8">
             {nfts.map((nft) => (
               <div key={nft.id} className="flex flex-col-reverse bg-pale-yellow rounded-lg">
                 <div className="mt-4 mb-3">
