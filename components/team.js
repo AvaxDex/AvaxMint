@@ -15,7 +15,7 @@ const people = [
         <div className="max-w-7xl mx-auto py-12 px-4 text-center sm:px-6 lg:px-8 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
-              <h2 className="font-justanotherhand text-6xl text-maastricht">Meet our team</h2>
+              <h2 className="font-justanotherhand text-6xl text-maastricht">As Seen:</h2>
               <p className="mt-10 text-gray-500 font-justanotherhand text-5xl text-pale-yellow text-center ">
               A team of human with backgrounds in crypto, technology, and gaming working to build a decentralized brand of the future.
               </p>
