@@ -2,6 +2,12 @@ import Image from 'next/image'
 
 const people = [
   {
+    name: 'NFT Calendar',
+    url: 'https://nftcalendar.io/event/kid-story',
+    role: '',
+    imageSrc:'/images/team/profile-1.png',
+  },
+  {
     name: 'Sopha',
     role: 'Marketing Manager',
     imageSrc:'/images/team/profile-1.png',
