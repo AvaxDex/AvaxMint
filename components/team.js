@@ -2,33 +2,11 @@ import Image from 'next/image'
 
 const people = [
   {
-    name: 'Sopha',
-    role: 'Marketing Manager',
+    name: 'NFT Calendar',
+    role: '',
     imageSrc:'/images/team/profile-1.png',
-    twitterUrl: 'https://twitter.com/SreySophaPMI',
-    linkedinUrl: 'https://www.linkedin.com/in/sreysopha',
+    twitterUrl: 'https://nftcalendar.io/event/kid-story/',
   },
-  {
-      name: 'Hak',
-      role: 'Blockchain Developer',
-      imageSrc: '/images/team/profile-2.png',
-      twitterUrl: 'https://twitter.com/menglianghak',
-      linkedinUrl: 'https://www.linkedin.com/in/menglianghak/',
-    },
-    {
-      name: 'Son',
-      role: 'Community Manager',
-      imageSrc: '/images/team/profile-3.png',
-      twitterUrl: 'https://twitter.com/SonSoeurng',
-      linkedinUrl: 'https://linkedin.com/in/sonsoeurngpel',
-    },
-    {
-      name: 'Ratha',
-      role: 'Designer',
-      imageSrc: '/images/team/profile-4.png',
-      twitterUrl: 'https://twitter.com/MonyRathaPel',
-      linkedinUrl: 'https://www.linkedin.com/in/monyrathapel',
-    },
   // More people...
 ]
   
