@@ -5,7 +5,6 @@ const people = [
     name: 'NFT Calendar',
     role: '',
     imageSrc:'/images/team/profile-1.png',
-    twitterUrl: 'https://nftcalendar.io/event/kid-story/',
   },
   // More people...
 ]
@@ -17,7 +16,7 @@ const people = [
             <div className="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
               <h2 className="font-justanotherhand text-6xl text-maastricht">As Seen:</h2>
               <p className="mt-10 text-gray-500 font-justanotherhand text-5xl text-pale-yellow text-center ">
-              A team of human with backgrounds in crypto, technology, and gaming working to build a decentralized brand of the future.
+              .
               </p>
             </div>
             <ul
