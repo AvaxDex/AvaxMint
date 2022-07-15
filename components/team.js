@@ -2,14 +2,6 @@ import Image from 'next/image'
 
 const people = [
   {
-    name: 'NFT Calendar',
-    url: 'https://nftcalendar.io/event/kid-story',
-    role: 'As Seen',
-    imageSrc:'/images/team/profile-5.png',
-    twitterUrl: 'https://twitter.com/nftcalendar',
-    linkedinUrl: 'https://www.instagram.com/nftcalendar',
-  },
-  {
     name: 'Sopha',
     url: 'https://nftcalendar.io/event/kid-story',
     role: 'Marketing Manager',
@@ -38,6 +30,20 @@ const people = [
       imageSrc: '/images/team/profile-4.png',
       twitterUrl: 'https://twitter.com/MonyRathaPel',
       linkedinUrl: 'https://www.linkedin.com/in/monyrathapel',
+    },
+      name: 'NFT Calendar',
+      url: 'https://nftcalendar.io/event/kid-story',
+      role: 'As Seen',
+      imageSrc:'/images/team/profile-5.png',
+      twitterUrl: 'https://twitter.com/nftcalendar',
+      linkedinUrl: 'https://www.instagram.com/nftcalendar',
+    },
+      name: 'NFT Figure',
+      url: 'https://www.nftfigure.org',
+      role: 'As Seen',
+      imageSrc:'/images/team/profile-6.png',
+      twitterUrl: 'https://www.youtube.com/channel/UCvLy01nRiOl4bwDs_vHj0ig',
+      linkedinUrl: 'https://www.instagram.com/nftfigure/',
     },
   // More people...
 ]
