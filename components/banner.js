@@ -1,8 +1,8 @@
 const contents = [
   {
     id: 0,
-    mindDate: '🔥Mint Date: 15 July 05:00 UTC🔥',
-    mintDateMobile: 'Mint Date: 15 July 05:00 UTC',
+    mindDate: '🔥Free Mint Whitelist Selection: 15-31th July🔥',
+    mintDateMobile: 'Free Mint Whitelist Selection: 15-31th July',
   }
 ]
 
