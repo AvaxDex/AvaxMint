@@ -52,7 +52,7 @@ const people = [
             </div>
             <ul
               role="list"
-              className="mx-auto space-y-16 sm:grid sm:gap-4 sm:space-y-0 lg:grid-cols-4"
+              className="mx-auto space-y-16 sm:grid sm:gap-4 sm:space-y-0 lg:grid-cols-5"
             >
               {people.map((person) => (
                 <li key={person.name}>
