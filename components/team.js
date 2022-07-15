@@ -3,6 +3,7 @@ import Image from 'next/image'
 const people = [
   {
     name: 'NFT Calendar',
+    url: 'https://nftcalendar.io/event/kid-story',
     role: '',
     imageSrc:'/images/team/profile-1.png',
   },
@@ -26,7 +27,7 @@ const people = [
               {people.map((person) => (
                 <li key={person.name}>
                   <div className="space-y-4 gap-4">
-                    <a href="https://nftcalendar.io/event/kid-story"><Image
+                    <a href={person.url}><Image
                     className="mx-auto h-70 w-70 rounded-lg"
                     src={person.imageSrc}
                     alt=""
