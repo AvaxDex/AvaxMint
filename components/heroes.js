@@ -88,7 +88,7 @@ const Heroes = ({ accounts, setAccounts }) => {
             <div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
               <Image
                 className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src="/images/main-image/main-image.gif"
+                src="/images/main-image/main-image.png"
                 priority
                 width={800}
                 height={700}
