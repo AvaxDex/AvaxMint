@@ -2,11 +2,34 @@ import Image from 'next/image'
 
 const people = [
   {
-    name: 'NFT Calendar',
-    url: 'https://nftcalendar.io/event/kid-story',
-    role: '',
+    name: 'Sopha',
+    role: 'Marketing Manager',
     imageSrc:'/images/team/profile-1.png',
+    twitterUrl: 'https://twitter.com/SreySophaPMI',
+    linkedinUrl: 'https://www.linkedin.com/in/sreysopha',
   },
+  {
+      name: 'Hak',
+	  url: 'https://www.google.com', 
+      role: 'Blockchain Developer',
+      imageSrc: '/images/team/profile-2.png',
+      twitterUrl: 'https://twitter.com/menglianghak',
+      linkedinUrl: 'https://www.linkedin.com/in/menglianghak/',
+    },
+    {
+      name: 'Son',
+      role: 'Community Manager',
+      imageSrc: '/images/team/profile-3.png',
+      twitterUrl: 'https://twitter.com/SonSoeurng',
+      linkedinUrl: 'https://linkedin.com/in/sonsoeurngpel',
+    },
+    {
+      name: 'Ratha',
+      role: 'Designer',
+      imageSrc: '/images/team/profile-4.png',
+      twitterUrl: 'https://twitter.com/MonyRathaPel',
+      linkedinUrl: 'https://www.linkedin.com/in/monyrathapel',
+    },
   // More people...
 ]
   
@@ -15,9 +38,9 @@ const people = [
         <div className="max-w-7xl mx-auto py-12 px-4 text-center sm:px-6 lg:px-8 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
-              <h2 className="font-justanotherhand text-6xl text-maastricht">As Seen:</h2>
+              <h2 className="font-justanotherhand text-6xl text-maastricht">Meet our team</h2>
               <p className="mt-10 text-gray-500 font-justanotherhand text-5xl text-pale-yellow text-center ">
-              .
+              A team of human with backgrounds in crypto, technology, and gaming working to build a decentralized brand of the future.
               </p>
             </div>
             <ul
