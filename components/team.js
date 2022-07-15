@@ -31,6 +31,7 @@ const people = [
       twitterUrl: 'https://twitter.com/MonyRathaPel',
       linkedinUrl: 'https://www.linkedin.com/in/monyrathapel',
     },
+    {
       name: 'NFT Calendar',
       url: 'https://nftcalendar.io/event/kid-story',
       role: 'As Seen',
@@ -38,6 +39,7 @@ const people = [
       twitterUrl: 'https://twitter.com/nftcalendar',
       linkedinUrl: 'https://www.instagram.com/nftcalendar',
     },
+    {
       name: 'NFT Figure',
       url: 'https://www.nftfigure.org',
       role: 'As Seen',
