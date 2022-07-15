@@ -4,8 +4,10 @@ const people = [
   {
     name: 'NFT Calendar',
     url: 'https://nftcalendar.io/event/kid-story',
-    role: '',
+    role: 'As Seen',
     imageSrc:'/images/team/profile-5.png',
+    twitterUrl: 'https://twitter.com/nftcalendar',
+    linkedinUrl: 'https://www.instagram.com/nftcalendar',
   },
   {
     name: 'Sopha',
