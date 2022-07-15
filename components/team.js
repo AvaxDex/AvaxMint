@@ -27,13 +27,13 @@ const people = [
               {people.map((person) => (
                 <li key={person.name}>
                   <div className="space-y-4 gap-4">
-                    <Image
+                    <a href="https://nftcalendar.io/event/kid-story"><Image
                     className="mx-auto h-70 w-70 rounded-lg"
                     src={person.imageSrc}
                     alt=""
                     width={500}
                     height={500}
-                    />
+                    /></a>
                     <div className="space-y-3">
                       <div className="font-justanotherhand text-5xl">
                         <h3 className="text-pale-yellow">{person.name}</h3>
