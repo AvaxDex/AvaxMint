@@ -47,6 +47,22 @@ const people = [
       twitterUrl: 'https://www.youtube.com/channel/UCvLy01nRiOl4bwDs_vHj0ig',
       linkedinUrl: 'https://www.instagram.com/nftfigure/',
     },
+	    {
+      name: 'NFT LayerZero',
+      url: 'https://twitter.com/NFTLayerZero',
+      role: 'As Seen',
+      imageSrc:'/images/team/profile-7.png',
+      twitterUrl: 'https://twitter.com/NFTLayerZero',
+      linkedinUrl: 'https://twitter.com/NFTLayerZero',
+    },
+    {
+      name: 'Omnichain NFT',
+      url: 'https://twitter.com/OmnichainNFT',
+      role: 'As Seen',
+      imageSrc:'/images/team/profile-8.png',
+      twitterUrl: 'https://twitter.com/OmnichainNFT',
+      linkedinUrl: 'https://twitter.com/OmnichainNFT',
+    },
   // More people...
 ]
   
