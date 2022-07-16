@@ -24,7 +24,7 @@ const navigation = {
       {
         id: 3,
         name: 'Instagram',
-        href: 'https://instagram.com/avaxdex',
+        href: 'https://www.instagram.com/kidstorynft',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
